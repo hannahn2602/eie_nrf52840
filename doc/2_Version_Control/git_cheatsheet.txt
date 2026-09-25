@@ -6,3 +6,10 @@ git push
 git merge
 git rebase
 git fetch
+git add
+git status
+git log
+
+-u <remote> <branch> under git push
+check what change with diff with git diff
+If your terminal shows a colon in the bottom left and isn't letting you type commands as usual, press q to exit back to a normal terminal session
